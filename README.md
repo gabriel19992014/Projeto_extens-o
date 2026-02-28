@@ -1,50 +1,48 @@
-# Welcome to your Expo app 👋
+Projeto de Extensão – Aplicativo em React Native/Expo
+📖 Descrição
+Este projeto foi desenvolvido como parte de atividade de extensão acadêmica.
+O aplicativo foi construído em React Native com Expo Go, utilizando como referência modelos aprendidos em curso da OneBitCode e adaptados para atender às necessidades do projeto.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+🚀 Funcionalidades
+Interface inicial com navegação entre telas
 
-## Get started
+Integração com banco de dados
 
-1. Install dependencies
+Componentes reutilizáveis
 
-   ```bash
-   npm install
-   ```
+Estrutura baseada em boas práticas de desenvolvimento
 
-2. Start the app
+🛠️ Tecnologias utilizadas
+React Native
 
-   ```bash
-   npx expo start
-   ```
+Expo
 
-In the output, you'll find options to open the app in a
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Git/GitHub para versionamento
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Registro de participação em curso utilizado como referência
 
-## Get a fresh project
+📌 Como executar
+Clone este repositório:
 
-When you're ready, run:
+bash
+git clone https://github.com/seuusuario/projeto-extensao.git
+Instale as dependências:
 
-```bash
-npm run reset-project
-```
+bash
+npm install
+Execute o projeto:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+bash
+npx expo start
+👨‍💻 Autor
+Nome: Gabriel
 
-## Learn more
+Instituição: Estácio
 
-To learn more about developing your project with Expo, look at the following resources:
+Projeto de Extensão – 2026
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+🙏 Agradecimentos
+Este projeto teve como base conteúdos do curso da OneBitCode, que serviram de referência inicial para a estrutura e boas práticas aplicadas no desenvolvimento.
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+  
