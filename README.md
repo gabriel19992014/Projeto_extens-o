@@ -41,6 +41,7 @@ Nome: Gabriel
 Instituição: Estácio
 
 Projeto de Extensão – 2026
+Download: https://expo.dev/accounts/gabriel19992014/projects/finance-app/builds/58258599-cc09-4ba1-8fb9-e0cbf4a6cca5
 
 🙏 Agradecimentos
 Este projeto teve como base conteúdos do curso da OneBitCode, que serviram de referência inicial para a estrutura e boas práticas aplicadas no desenvolvimento.
